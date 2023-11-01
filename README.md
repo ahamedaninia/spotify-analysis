@@ -1,6 +1,3 @@
-# spotify-analysis
-My term project for my DSC 540 Data Preparation class.
-
 # Spotify -- what can we learn looking at the top songs released?
 
 ### **Project Subject:** Using various sources to look at the Spotify charts and top music charts, we will analyze the different relationships and aspects of a song that may correlate to it rising to the top charts. 
@@ -24,5 +21,4 @@ This wikipedia link contains several different tables that may be of use in this
 
 These three data sources each contain information about Spotify, specifically about the artists and songs that do the best. When looking at them altogether, we can form relationships between the different datasets according to what information they can provide about the top songs released. 
 
-
-## Project Milestone 2 - Data clean up (Flat file)
+In each dataset, I will use about 5 different transformations on each one. I will then combine then into an SQLlite database, and use PowerBI to visualize the data in a few different ways. 
