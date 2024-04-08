@@ -1,4 +1,4 @@
-# Spotify -- what can we learn looking at the top songs released?
+# Spotify -- What makes a good song, great?
 
 The initial purpose of this project was to practice pulling data from different sources (API, flat files, and scraping data from a website), and I decided to have fun with it and see what makes a good song, great? These data sources include variables like beat, rpm, key, how many playlists they've been added to, how long were in they in top 10, etc. 
 
